@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/momszx/Ender-3-S1-Super/main/pic/img_5003.jpg" width="500"  />
+
 Introduction:
 The Creality Ender 3 S1 is a popular 3D printer known for its reliability and affordability. This documentation provides instructions for upgrading the printer's stock motherboard to the Manta M4P board (available at https://github.com/bigtreetech/Manta-M4P). The Manta M4P offers several advantages, including a web-based interface for printer control, support for interchangeable stepper motors, the option to use a separate power supply, integration with the ADXL345 accelerometer for input shaping, real-time monitoring of print progress, webcam support, and compatibility with the Klipper firmware.
 
